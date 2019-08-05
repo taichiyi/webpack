@@ -50,7 +50,7 @@
     "glob": "^7.1.3",
     "husky": "^3.0.2",
     "istanbul": "^0.4.5",
-    "jest": "^24.8.0",
+    "jest": "24.1.0",
     "jest-junit": "^7.0.0",
     "json-loader": "^0.5.7",
     "json-schema-to-typescript": "^7.0.0",
@@ -79,6 +79,9 @@
     "wast-loader": "^1.5.5",
     "worker-loader": "^2.0.0",
     "xxhashjs": "^0.2.1"
+  },
+  "resolutions": {
+    "jest/jest-cli": "24.1.0"
   },
   "engines": {
     "node": ">=8.9.0"
